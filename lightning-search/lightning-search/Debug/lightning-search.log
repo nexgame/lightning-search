@@ -1,0 +1,6 @@
+﻿  lightning-search.cpp
+  SystemParser.cpp
+E:\VS\Lightning-Search\lightning-search\lightning-search\SystemParser.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+lightning-search.obj : error LNK2019: unresolved external symbol "public: __thiscall SystemParser::SystemParser(void)" (??0SystemParser@@QAE@XZ) referenced in function _wWinMain@16
+E:\VS\Lightning-Search\lightning-search\Debug\lightning-search.exe : fatal error LNK1120: 1 unresolved externals

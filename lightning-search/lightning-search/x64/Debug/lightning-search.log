@@ -1,0 +1,5 @@
+﻿  lightning-search.cpp
+  SystemParser.cpp
+E:\VS\Lightning-Search\lightning-search\lightning-search\SystemParser.cpp(33,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  lightning-search.vcxproj -> E:\VS\Lightning-Search\lightning-search\x64\Debug\lightning-search.exe
